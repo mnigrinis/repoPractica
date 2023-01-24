@@ -1,0 +1,2 @@
+Hola.
+Este es un texto de prueba para practicar la creación de un repositorio local y luego subirlo con cambios a GITHUB.
